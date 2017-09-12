@@ -1,4 +1,4 @@
-package com.in.global.menuManage;
+package com.in.global.vo;
 
 public class MenuVO {
 

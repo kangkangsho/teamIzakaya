@@ -1,4 +1,4 @@
-package com.in.global.employees;
+package com.in.global.vo;
 
 public class employeesVO {
 	private int emplNo;

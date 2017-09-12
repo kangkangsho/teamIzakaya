@@ -1,4 +1,4 @@
-package com.in.global.shoppingBasket;
+package com.in.global.vo;
 
 public class ShoppingBasketVO {
 

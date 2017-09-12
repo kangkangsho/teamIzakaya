@@ -6,7 +6,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.in.global.menuManage.MenuVO;
+import com.in.global.vo.MenuVO;
 
 
 @Controller
