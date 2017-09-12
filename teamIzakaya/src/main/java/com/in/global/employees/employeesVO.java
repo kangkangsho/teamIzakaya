@@ -15,6 +15,11 @@ public class employeesVO {
 	public void setEmplName(String emplName) {
 		this.emplName = emplName;
 	}
+	public employeesVO(int emplNo, String emplName) {
+		super();
+		this.emplNo = emplNo;
+		this.emplName = emplName;
+	}
 	
 	
 
