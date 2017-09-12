@@ -5,8 +5,8 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.in.global.menuManage.MenuVO;
-import com.in.global.shoppingBasket.ShoppingBasketVO;
+import com.in.global.vo.MenuVO;
+import com.in.global.vo.ShoppingBasketVO;
 
 @Service
 public class OrderServiceImpl implements OrderService{

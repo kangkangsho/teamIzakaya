@@ -2,8 +2,8 @@ package com.in.global.orderMenu;
 
 import java.util.List;
 
-import com.in.global.menuManage.MenuVO;
-import com.in.global.shoppingBasket.ShoppingBasketVO;
+import com.in.global.vo.MenuVO;
+import com.in.global.vo.ShoppingBasketVO;
 
 public interface OrderDao {
 
