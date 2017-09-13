@@ -43,7 +43,7 @@ $(function(){
 	<li><div><a href="cusOrder.jsp" >메뉴주문</a></div></li>
 	<li><div><a href="shoppingList.jsp">장바구니</a></div></li>
 	<li><div><a href="#">주문내역</a></div></li>
-	<li><div><a href="#">직원호출ddd</a></div></li>
+	<li><div><a href="#">직원호출</a></div></li>
 	</ul>
 </div>
 
